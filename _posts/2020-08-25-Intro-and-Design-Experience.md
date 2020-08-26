@@ -6,10 +6,6 @@ categories: jekyll update
 author: "Kristinn"
 ---
 
-# Fyrsti fyrirlestur, hönnun
-
-Mikal Hallstrup, stofnandi designIt
-
 
 <a id="orgac24c3e"></a>
 
@@ -50,10 +46,6 @@ Hvernig er upplifun notenda
 <a id="org4294ded"></a>
 
 ## Design-process
-
-hringrásir
-Insight, concept sketching&#x2026;
-
 
 <a id="org5bf998a"></a>
 
@@ -121,7 +113,7 @@ Our call center is flooded with questions about how to log in and where to find 
 
 <a id="org0091e84"></a>
 
-## The old way
+### The old way
 
 hypothesis -> Develop and design -> launch
 bad becuase its high risk and high risk of restaring
@@ -129,7 +121,7 @@ bad becuase its high risk and high risk of restaring
 
 <a id="org593d66c"></a>
 
-## The right way
+### The right way
 
 hypothesis -> user research and insight -> confirm hypothesis
 then we can concept, prototype and test
@@ -151,35 +143,32 @@ Plenty of information we can get: history, data, statistics
 
 <a id="orgcc298a8"></a>
 
-## Understand your target groups
+## Understand your target groups (example mathöll granda og hlemm)
 
 
 <a id="org08151b1"></a>
 
-### example mathöll granda og hlemm
+###  bad
+1. Locals
+2. Tourists
 
-1.  bad
+Are we sure? Thats all..
 
-    Locals
-    Tourists
-    
-    Are we sure? Thats all..
+###  Better
 
-2.  Better
+1. locals lunch
+2. locals dinner
+3. tourist lunch
+4. tourist dinner
 
-    locals lunch
-    locals dinner
-    tourist lunch
-    tourist dinner
+### best
 
-3.  best
-
-    locals lunch 
-    locals dinner 
-    localst nightlife
-    tourist lunch
-    tourist dinner
-    tourist nightlife
+1. locals lunch 
+2. locals dinner 
+3. localst nightlife
+4. tourist lunch
+5. tourist dinner
+6. tourist nightlife
 
 
 <a id="orgf312ab4"></a>
@@ -235,37 +224,8 @@ krakkar leika ser og senda inn í þjónustu og senda inn broskalla sem þeir fi
 
 <a id="org746471e"></a>
 
-## Focus groups, be careful
-
-
-<a id="orga00d597"></a>
-
-### many people just want free stuff
-
-
-<a id="org789100e"></a>
-
-### You can get false data
-
-
-<a id="orgbeb6b1d"></a>
-
-### Many are there to get something for free
-
-
-<a id="org72e947b"></a>
-
-### Many say yes to everying
-
-
-<a id="org3903196"></a>
-
-### high probability of indiffirence
-
-
-<a id="org388fa2c"></a>
-
-### can work if they are actually interested in your product
+## Focus groups
+be careful you can get false data. Many are there to get something for free. Many say yes to everying. high probability of indiffirence. Can work if they are actually interested in your product
 
 
 <a id="org89d135c"></a>
@@ -284,59 +244,16 @@ but what are you using that information for? They dont really know other than fl
 
 ## Interview
 
-Best way to get information
+### Is the best way to get information
 
 
-<a id="orgb4f53e1"></a>
-
-### The more the better, at least 5 from each focus group
+The more the better, at least 5 from each focus group ask questiong that reaveal their behaviour and needs. Dont ask leading questions. Dont ask yes/no. Make it pleasant. Record with phone, not video. People will get shy
 
 
-<a id="orgf99b785"></a>
-
-### Ask questiong that reaveal their behaviour and needs
+## Best way to pursuade people to get into the inteview
 
 
-<a id="org49ca702"></a>
-
-### Dont ask leading questing
-
-
-<a id="orgb9ca7e1"></a>
-
-### Dont ask yes/no
-
-
-<a id="orgd14500b"></a>
-
-### Make it pleasant
-
-
-<a id="org4e5003a"></a>
-
-### Record with phone, not video. People will get shy
-
-Best way to pursuade people to get into the inteview
-
-
-<a id="orgf4e4b47"></a>
-
-### Nota personuleg umhverfi eins og að setja á facebook: "Hey þekkið þið einhvern sem er svona&#x2026;"
-
-
-<a id="org66adfcc"></a>
-
-### Vera i bankanum til ad hitta á fólk og segja: "Hefuru 5 minutur í smá spjall?"
-
-
-<a id="orgc2e703e"></a>
-
-### Fjolskylda, vinir
-
-
-<a id="org447ede8"></a>
-
-### Mathöllin fór hann á staðinn og beið eftir að þau voru buin að borða og fór svo til þeirra og byrjaði að spjalla.
+Nota personuleg umhverfi eins og að setja á facebook: "Hey þekkið þið einhvern sem er svona&#x2026;". Vera i bankanum til ad hitta á fólk og segja: "Hefuru 5 minutur í smá spjall?". Fjolskylda, vinir. Mathöllin fór hann á staðinn og beið eftir að þau voru buin að borða og fór svo til þeirra og byrjaði að spjalla.
 
 
 <a id="orgbb49973"></a>
@@ -399,12 +316,14 @@ eftir nokkrar vikur gerum við flow chart úr case og dæmi
 
 <a id="orgf839b91"></a>
 
-### Explore - i want something but need to find out
+### Explore 
+i want something but need to find out
 
 
 <a id="orgdb4d2b3"></a>
 
-### enage - this seems interesting. lets try it
+### enage 
+this seems interesting. lets try it
 
 
 <a id="org4dc5eff"></a>
@@ -414,7 +333,8 @@ eftir nokkrar vikur gerum við flow chart úr case og dæmi
 
 <a id="org29ccfdf"></a>
 
-### disengage - this sucks i wanna quit this serice
+### disengage 
+ this sucks i wanna quit this serice
 
 
 <a id="orgaf44636"></a>
